@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 
 
 deleting some number
+=======
+changes made
+>>>>>>> 43fa38e68a8f6d67fda46ad0f029d17df73de5c6
+i update something in this file
